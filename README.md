@@ -1,9 +1,4 @@
-- my_eda_app/
-  - app.py
-  - requirements.txt
-  - README.md
-  - sample_data/
-    - example.csv
+
 # EDA App with Streamlit
 
 This app allows you to upload CSV files and performs an Exploratory Data Analysis (EDA) using `pandas-profiling`. The user interface is built with Streamlit.
